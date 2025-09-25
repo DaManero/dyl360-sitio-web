@@ -7,7 +7,7 @@ const EnConstruccion = () => (
       Sitio en construcción
     </Typography>
     <Typography variant="h5" color="textSecondary">
-      Estamos trabajando para traerte la mejor experiencia. ¡Vuelve pronto!
+      Estamos trabajando para traerte la mejor experiencia. ¡Vuelve pronto!!!!
     </Typography>
   </Box>
 );
